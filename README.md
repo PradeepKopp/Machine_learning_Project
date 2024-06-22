@@ -12,10 +12,29 @@ Requirements
 Creating conda environment 
 '''
 conda create -p venv python==3.7 -y
-
-'''
 conda activate venv/
-
-'''
 pip install -r requirements.txt
+'''
+
+TO add fioles to Git 
+'''
+git add . 
+git add <filename>
+'''
+
+-Note: To ignore the files or folders to ignore from git we can write name of file/folder in .gitignore file 
+
+To check the git status
+'''
+git status 
+'''
+
+To check all the version control maintained by git
+'''
+git log 
+'''
+
+To Create version/commit all changes by git 
+'''
+git commit -m "message"
 '''
