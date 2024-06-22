@@ -8,3 +8,14 @@ Requirements
 2.Heroku Account
 3.VS Code IDE
 4.GIT cli 
+
+Creating conda environment 
+'''
+conda create -p venv python==3.7 -y
+
+'''
+conda activate venv/
+
+'''
+pip install -r requirements.txt
+'''
