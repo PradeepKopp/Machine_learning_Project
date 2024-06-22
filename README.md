@@ -38,3 +38,48 @@ To Create version/commit all changes by git
 '''
 git commit -m "message"
 '''
+
+To send version/changes to github 
+'''
+git push origin main
+'''
+To check remote url 
+'''
+git remote -v
+'''
+
+To setpup CI/CD pipeline 
+1.Heruku Email-
+2.Heroku Api key-
+3.Heroku App_Name-
+
+Build Docker Image 
+'''
+docker build -t <image_name>:<tagname> .
+'''
+>Note: Image name for docker must be lowercase 
+
+To list docker image 
+'''
+docker images
+'''
+
+To list docker images 
+'''
+docker images
+''''
+
+Run Docker image 
+'''
+docker run -p 5000:5000 -e PORT=5000 
+'''
+
+To check running conatainers in docker 
+'''
+docker ps
+'''
+
+To stop docker container 
+ '''
+ docker stop <conatainer id>
+ '''
