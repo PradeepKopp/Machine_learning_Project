@@ -1,5 +1,6 @@
 Flask
 gunicorn
-sklearn
+scikit-learn
 pandas 
-numpyS
+numpy
+-e .

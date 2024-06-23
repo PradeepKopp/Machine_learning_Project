@@ -87,3 +87,8 @@ To stop docker container
  '''
  python setup.py install
  '''
+
+ '''
+ python install -e .
+ 
+ '''
