@@ -42,7 +42,7 @@ git add <filename>
   git push origin main
 ```
 >Note: To ignore the files or folders to ignore from git we can write name of file/folder in .gitignore file 
->>>>>>> 89dbe80f458ebe90a812ad9ff081492e7a879974
+
 
 >To check the git status
 ```bash
