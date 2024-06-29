@@ -16,7 +16,7 @@ conda activate venv/
 pip install -r requirements.txt
 '''
 
-TO add fioles to Git 
+TO add files to Git 
 '''
 git add . 
 git add <filename>
