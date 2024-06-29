@@ -111,3 +111,8 @@ docker ps
  ```
  python install -e .
  ```
+>Install ipynbkernel
+
+```
+pip install ipykernel
+```
