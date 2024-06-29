@@ -20,15 +20,12 @@ My machine learning project focuses on predicting house prices. Using advanced m
 ```bash
   pip install -r requirements.txt
 ```
-
-<<<<<<< HEAD
-TO add files to Git 
+>To add files to Git 
 '''
 git add . 
 git add <filename>
 '''
-=======
-##  To add files to Git 
+>To add files to Git 
 ```bash
   git add . 
 ```
